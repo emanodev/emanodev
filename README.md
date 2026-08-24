@@ -44,7 +44,7 @@
      alt="Data visualization animation">
 
 </div>
-
+<br>
 <h2>⚙️ Technologies, etc</h2>
 
 <div align="left">
