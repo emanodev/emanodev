@@ -38,7 +38,10 @@
 
 <div align="center">
 
-<img src="./assets/data.gif" width="650" alt="Data visualization animation">
+<img src="./assets/data.gif"
+     width="100%"
+     height="180"
+     alt="Data visualization animation">
 
 </div>
 
