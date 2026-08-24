@@ -21,7 +21,16 @@
 >Data, Technology & Problem Solving.
 </div>
 
-<h2>👨‍💻 About Me</h2>
+<h2>
+  <img
+    src="https://github.com/user-attachments/assets/304321b0-d901-4077-b1b9-cb1c361a6de3"
+    width="50"
+    height="50"
+    alt="Computer Hacking GIF"
+    align="middle"
+  />
+  About Me
+</h2>
 
 <div>
   <p>
@@ -45,7 +54,16 @@
 
 </div>
 <br>
-<h2>⚙️ Technologies, etc</h2>
+<h2>
+  <img
+    src="https://github.com/user-attachments/assets/33d0d0b5-8bcf-442e-bbfd-0c226574a687"
+    width="50"
+    height="50"
+    alt="Computer Hacking GIF"
+    align="middle"
+  />
+  Technologies, etc
+</h2>
 
 <div align="left">
 
