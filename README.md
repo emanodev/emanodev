@@ -47,10 +47,12 @@
 
 <div align="center">
 
-<img src="./assets/data.png"
-     width="100%"
-     height="180"
-     alt="Data visualization animation">
+  <img
+    src="https://github.com/user-attachments/assets/fbd56004-0413-4936-8ec0-83150eb90541"
+    width="100%"
+    height="180"
+    alt="Data visualization animation"
+  />
 
 </div>
 <br>
