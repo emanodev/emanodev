@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**emanodev/emanodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# EMANOEL V.
 
-Here are some ideas to get you started:
+### Data Scientist · Python · SQL · Power BI · Machine Learning · AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+<div align="center">
+  <a href="www.linkedin.com/in/emanoelv">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+
+>Data, Technology & Problem Solving.
+</div>
+
+<h2>👨‍💻 About Me</h2>
+
+<div>
+  <p>
+    I'm a <strong>Data Scientist</strong> focused on transforming data into
+    meaningful insights and practical solutions.
+  </p>
+
+  <p>
+    My background combines <strong>Data Science</strong>,
+    <strong>programming</strong>, <strong>data analysis</strong> and
+    <strong>automation</strong>.
+  </p>
+</div>
+
+<img src="./assets/data.gif" width="320" alt="Data visualization animation">
+
+<h2>⚙️ Technologies, etc</h2>
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+
+</div>
