@@ -1,6 +1,6 @@
 <div align="center">
 
-# EMANOEL V.
+# Emanoel V.
 
 ### Data Scientist · Python · SQL · Power BI · Machine Learning · AI
 
