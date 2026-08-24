@@ -36,7 +36,11 @@
   </p>
 </div>
 
-<img src="./assets/data.gif" width="320" alt="Data visualization animation">
+<td width="40%" align="center" valign="middle">
+
+<img src="./assets/data.gif" width="320" alt="Data visualization">
+
+</td>
 
 <h2>⚙️ Technologies, etc</h2>
 
