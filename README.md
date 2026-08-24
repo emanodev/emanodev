@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<img src="./assets/data.gif"
+<img src="./assets/data.png"
      width="100%"
      height="180"
      alt="Data visualization animation">
