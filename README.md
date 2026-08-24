@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <a href="www.linkedin.com/in/emanoelv">
+  <a href="https://www.linkedin.com/in/emanoelv">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
