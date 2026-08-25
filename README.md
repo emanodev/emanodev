@@ -6,17 +6,11 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/emanoelv">
-  <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" width="40" alt="LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/emanoelv" target="_blank"><img src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" width="40" alt="LinkedIn"/></a>
 &nbsp;&nbsp;
-<a href="https://www.kaggle.com/emanoelv">
-  <img src="https://img.icons8.com/?size=100&id=1gfpj0O16MD1&format=png&color=FFFFFF" width="40" alt="Kaggle"/>
-</a>
+<a href="https://www.kaggle.com/emanoelv" target="_blank"><img src="https://img.icons8.com/?size=100&id=1gfpj0O16MD1&format=png&color=FFFFFF" width="40" alt="Kaggle"/></a>
 &nbsp;&nbsp;
-<a href="emanoelv.contact@gmail.com">
-  <img src="https://img.icons8.com/?size=100&id=60688&format=png&color=FFFFFF" width="40" alt="Email"/>
-</a>
+<a href="mailto:emanoelv.contact@gmail.com"><img src="https://img.icons8.com/?size=100&id=60688&format=png&color=FFFFFF" width="40" alt="Email"/></a>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:111827,100:0d1117&height=2&section=header" width="90%"/>
