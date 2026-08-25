@@ -14,11 +14,11 @@
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 ## 🧠 About Me
+
+<div align="center">
+
+</div>
 
 I'm a **Data Scientist** focused on transforming data into meaningful insights and practical solutions.
 
@@ -30,15 +30,11 @@ I enjoy working at the intersection of **technology, data and problem solving**,
 
 > **Data is everywhere. The challenge is knowing what to do with it.**
 
-</td>
+<br>
 
-<td width="42%" align="center" valign="middle">
-
-<img src="https://github.com/user-attachments/assets/644c3911-c053-4f75-b0a0-b44108ed4c71" width="250" alt="Data visualization"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/644c3911-c053-4f75-b0a0-b44108ed4c71" width="300" alt="Data visualization"/>
+</div>
 
 <br/>
 
