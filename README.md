@@ -74,7 +74,7 @@ I enjoy working at the intersection of **technology, data and problem solving**,
 
 <img src="https://github.com/user-attachments/assets/304321b0-d901-4077-b1b9-cb1c361a6de3" width="45" height="45" alt="Technology"/>
 
-### Turning data into insights.
+### Turning data into insights...
 
 <sub>Python · SQL · Data Analysis · Visualization · Automation · AI</sub>
 
