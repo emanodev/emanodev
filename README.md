@@ -4,75 +4,166 @@
 
 ### Data Scientist · Python · SQL · Power BI · Machine Learning · AI
 
+<br>
+
+<a href="https://www.linkedin.com/in/emanoelv">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:111827,100:0d1117&height=2&section=header" width="90%"/>
+
+<br>
+
+<i>Data, Technology & Problem Solving.</i>
+
+<br><br>
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## 🧠 About Me
+
+I'm a **Data Scientist** focused on transforming data into meaningful insights and practical solutions.
+
+My background combines **Data Science**, **programming**, **data analysis** and **automation**.
+
+I enjoy working at the intersection of **technology, data and problem solving**, turning complex information into something useful, clear and actionable.
+
+<br>
+
+> **Data is everywhere. The challenge is knowing what to do with it.**
+
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img
+  src="https://github.com/user-attachments/assets/644c3911-c053-4f75-b0a0-b44108ed4c71"
+  width="250"
+  alt="Data visualization"
+/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## ⚙️ Technologies & Tools
+<br>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="150">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+
+<br>
+
+<strong>PYTHON</strong>
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+
+<br>
+
+<strong>SQL</strong>
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/>
+
+<br>
+
+<strong>PANDAS</strong>
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+
+<br>
+
+<strong>GIT</strong>
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="42"/>
+
+<br>
+
+<strong>POWER BI</strong>
+
+</td>
+
+</tr>
+</table>
+<br>
+</div>
+
+---
+
+## 📊 Data & Analytics
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data_Analysis-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Data_Visualization-0D1117?style=for-the-badge&logo=plotly&logoColor=3F9CFF"/>
+<img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=powerautomate&logoColor=0066FF"/>
+
 </div>
 
 <br>
 
+---
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/emanoelv">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+
+<img
+  src="https://github.com/user-attachments/assets/304321b0-d901-4077-b1b9-cb1c361a6de3"
+  width="45"
+  height="45"
+  alt="Technology"
+/>
+
+### Turning data into insights.
 
 <br>
 
-<div align="center">
+<sub>
+Python · SQL · Data Analysis · Visualization · Automation · AI
+</sub>
 
->Data, Technology & Problem Solving.
-</div>
+<br><br>
 
-<h2>
-  <img
-    src="https://github.com/user-attachments/assets/304321b0-d901-4077-b1b9-cb1c361a6de3"
-    width="50"
-    height="50"
-    alt="Computer Hacking GIF"
-    align="middle"
-  />
-  About Me
-</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:111827,100:0d1117&height=2&section=footer" width="90%"/>
 
-<div>
-  <p>
-    I'm a <strong>Data Scientist</strong> focused on transforming data into
-    meaningful insights and practical solutions.
-  </p>
-
-  <p>
-    My background combines <strong>Data Science</strong>,
-    <strong>programming</strong>, <strong>data analysis</strong> and
-    <strong>automation</strong>.
-  </p>
-</div>
-
-<div align="center">
-
-  <img
-    src="https://github.com/user-attachments/assets/fbd56004-0413-4936-8ec0-83150eb90541"
-    width="100%"
-    height="180"
-    alt="Data visualization animation"
-  />
-
-</div>
 <br>
-<h2>
-  <img
-    src="https://github.com/user-attachments/assets/33d0d0b5-8bcf-442e-bbfd-0c226574a687"
-    width="50"
-    height="50"
-    alt="Computer Hacking GIF"
-    align="middle"
-  />
-  Technologies, etc
-</h2>
 
-<div align="left">
+**Emanoel V.**
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+<br>
+
+<sub>Data Scientist · Brazil 🇧🇷</sub>
 
 </div>
