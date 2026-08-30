@@ -78,11 +78,9 @@ I enjoy working at the intersection of **technology, data and problem solving**,
 
 <sub>Python · SQL · Data Analysis · Visualization · Automation · AI</sub>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:111827,100:0d1117&height=2&section=footer" width="90%"/>
 
-<br/>
+<p>
 
 **Emanoel V.**  
 <sub>Data Scientist · Brazil 🇧🇷</sub>
