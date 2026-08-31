@@ -97,7 +97,7 @@ I enjoy working at the intersection of **technology, data and problem solving**,
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/94b1a131-f0fd-46a7-b611-d32fb86ea70d" width="70" height="70" alt="Technology"/>
+<img src="https://github.com/user-attachments/assets/ec70e901-1930-4d2a-a1d5-e6ff6d42c24c" width="70" height="70" alt="Technology"/>
 
 ### Turning data into insights...
 
