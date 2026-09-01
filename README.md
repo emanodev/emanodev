@@ -61,6 +61,7 @@ I enjoy working at the intersection of **technology, data and problem solving**,
 ### Visualization & BI
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F9CFF?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
