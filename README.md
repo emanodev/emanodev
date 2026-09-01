@@ -80,8 +80,17 @@ I enjoy working at the intersection of **technology, data and problem solving**,
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Power_Platform-008272?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJ3aGl0ZSI+PGcgdHJhbnNmb3JtPSJzY2FsZSg1LjEyLDUuMTIpIj48cGF0aCBkPSJNNSw0Yy0wLjU1MiwwIC0xLDAuNDQ3IC0xLDF2MTloMjB2LTIwek0yNiw0djIwaDIwdi0xOWMwLC0wLjU1MyAtMC40NDgsLTEgLTEsLTF6TTQsMjZ2MTljMCwwLjU1MyAwLjQ0OCwxIDEsMWgxOXYtMjB6TTI2LDI2djIwaDE5YzAuNTUyLDAgMSwtMC40NDcgMSwtMXYtMTl6Ij48L3BhdGg+PC9nPjwvc3ZnPg=="/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### 🛡️ Cybersecurity & SecOps
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 </div>
